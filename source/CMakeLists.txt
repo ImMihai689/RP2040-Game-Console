@@ -68,3 +68,9 @@ target_link_libraries(game_console
 
 pico_add_extra_outputs(game_console)
 
+e_adc
+        
+        )
+
+pico_add_extra_outputs(game_console)
+
